@@ -8,5 +8,5 @@ x.*y
 
 etc.
 
-Primero elegiras si es gráfica en el plano poniendo 1 (Enter) o 2 para espacio.
+Primero elegiras si es gráfica en el plano poniendo 1 (Enter) o 2(Enter) para campo vectorial en el espacio.
 seleccionas los límites de cada eje, y al final ingresas las funciones (como en el ejemplo).
